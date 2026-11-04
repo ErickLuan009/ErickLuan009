@@ -1,5 +1,1 @@
-💻 Estudante de Ciência da Computação | Desenvolvedor em formação
-
-🐍 Atualmente estudando Python e aprimorando minhas habilidades em programação.
-
-🚀 Interessado em desenvolvimento de software, tecnologia e inovação.
+Estudante de tecnologia e profissional de TI em início de carreira. Atualmente desenvolvendo conhecimentos em Python, lógica de programação e desenvolvimento de sistemas. Interessado em tecnologia, inovação e criação de soluções. Este perfil reúne meus projetos, estudos e evolução profissional.
